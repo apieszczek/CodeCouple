@@ -1,2 +1,2 @@
-# CodeCouple
-This repository contains of codecouple's examples.
+# Code Couple Examples
+This repository contains examples from https://CodeCouple.pl
